@@ -1,15 +1,14 @@
-## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am [Madan Baduwal](https://madanbaduwal.github.io).
+## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am [Priyanka Paudel](https://github.com/priyanka36).
 
-[![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madan-baduwal-a688bb186)](https://www.linkedin.com/in/madan-baduwal-a688bb186)
+[![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madan-baduwal-a688bb186)](https://www.linkedin.com/in/priyanka-paudel-10361116b/)
 <br />
 
 ## About
-- 💻 Machine Learning Engineer associtate trainee at [Fusemachines](https://fusemachines.com).
-- 💡 Mathematics explorer.
-- ✍️ I also maintain a [blog here](https://madanbaduwal.github.io/), Mostly related to my work and research on Machine Learning. 
+- 💻 Python Developer [UpTechSys](https://uptechsys.com/)
+- 💡 Mathematics explorer. 
 - 🌱 Favourite Quote: Never Give Up.
 - 🔭 Research Interests: Computer Vision, NLP, Self/Semi Supervised Learning, Reinforcement Learning, Multi-Modal Machine Learning.
-- 📃 You can find [my Resume](https://github.com/MadanBaduwal/MadanBaduwal.github.io/blob/main/resume/madan%20cv.pdf) here.
+- 📃 You can find [my Resume](https://) here.
 
 
 ## Languages and Tools  
