@@ -1,4 +1,4 @@
-## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am [Priyanka Paudel](https://github.com/priyanka36).
+## Hello everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am [Priyanka Paudel](https://github.com/priyanka36).
 
 [![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madan-baduwal-a688bb186)](https://www.linkedin.com/in/priyanka-paudel-10361116b/)
 <br />
