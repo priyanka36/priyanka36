@@ -6,7 +6,7 @@
 ## About
 - 💻 Python Developer [UpTechSys](https://uptechsys.com/)
 - 💡 Mathematics explorer. 
-- 🌱 Favourite Quote: Man is born to live not to prepare for life
+- 🌱 Favourite Quote: A mind that is stretched by a new experience can never go back to its old dimensions.
 - 🔭 Research Interests: Computer Vision, NLP, Self/Semi Supervised Learning, Reinforcement Learning,  Machine Learning.
 - 📃 You can find [my Resume](https://) here.
 
