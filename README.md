@@ -33,4 +33,4 @@
 
 [comment]:![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 </details>
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=priyanka36&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api//?username=priyanka36&theme=<THEME_NAME>" />
