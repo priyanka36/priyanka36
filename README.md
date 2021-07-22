@@ -33,7 +33,9 @@
 
 [comment]:![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 </details>
-<img align="center" src="https://github-readme-stats.vercel.app/api//?username=priyanka36&theme=highcontrast" />
+
+![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka&show_icons=true&theme=radical)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka36&hide=javascript,html)](https://github.com/priyanka36/github-readme-stats)
 
