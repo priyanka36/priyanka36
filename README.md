@@ -33,6 +33,6 @@
 
 [comment]:![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 </details>
-<img align="center" src="https://github-readme-stats.vercel.app/api//?username=priyanka36&theme=<THEME_NAME>" />
-![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka36&count_private=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api//?username=priyanka36&theme=highcontrast" />
+
 
