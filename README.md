@@ -34,5 +34,7 @@
 [comment]:![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 </details>
 <img align="center" src="https://github-readme-stats.vercel.app/api//?username=priyanka36&theme=highcontrast" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=priyanka36&repo=github-readme-stats)](https://github.com/priyanka36/github-readme-stats)
+
 
 
