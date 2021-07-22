@@ -35,6 +35,7 @@
 </details>
 <img align="center" src="https://github-readme-stats.vercel.app/api//?username=priyanka36&theme=highcontrast" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka36&hide=javascript,html)](https://github.com/priyanka36/github-readme-stats)
 
 
 
