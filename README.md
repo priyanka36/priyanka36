@@ -4,7 +4,7 @@
 <br />
 
 ## About
-- 💻 Python Developer [UpTechSys](https://uptechsys.com/)
+- 💻 Machine Learning Engineer [Fusemachines](https://fusemachines.com/)
 - 💡 Mathematics explorer. 
 - 🌱 Favourite Quote: A mind that is stretched by a new experience can never go back to its old dimensions.
 - 🔭 Research Interests: Computer Vision, NLP, Self/Semi Supervised Learning, Reinforcement Learning,  Machine Learning.
