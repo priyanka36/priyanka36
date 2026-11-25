@@ -1,51 +1,34 @@
-## Hello everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> I am [Priyanka Paudel](https://github.com/priyanka36)
+# Hi, I'm Priyanka Paudel 👋
 
+**PhD student in Computer Science at [Mississippi State University](https://www.cse.msstate.edu/)**, advised by [Dr. Jingdao Chen](https://www.cse.msstate.edu/people/faculty/jingdao-chen/).
+I work on **multimodal AI**, **computer vision**, and **robotics**: building systems that combine vision, language, and other sensor data so that robots and AI agents can perceive, understand, and act in the real world.
 
-[![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyanka-paudel-a688bb186)](https://www.linkedin.com/in/priyanka-paudel-10361116b/)
-<br />
+[![Website](https://img.shields.io/badge/Website-priyanka36.github.io-7d1d2c?style=flat-square&logo=googlechrome&logoColor=white)](https://priyanka36.github.io) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Bl1KmboAAAAJ&hl=en) [![CV](https://img.shields.io/badge/CV-PDF-555?style=flat-square&logo=readthedocs&logoColor=white)](https://priyanka36.github.io/assets/Documents/Paudel_Priyanka_CV.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/priyanka-paudel-10361116b/) [![Email](https://img.shields.io/badge/Email-poudelnipriyanka%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:poudelnipriyanka@gmail.com)
 
-## About
-- 💻 Machine Learning Engineer [Fusemachines](https://fusemachines.com/)
-- 💡 Mathematics explorer. 
-- 🌱 Favourite Quote: A mind that is stretched by a new experience can never go back to its old dimensions.
-- 🔭 Research Interests: Computer Vision, NLP, Self/Semi Supervised Learning, Reinforcement Learning,  Machine Learning.
-- 📃 You can find [my Resume](https://) here.
+---
 
+### 🔬 Research interests
 
-## Languages and Tools  
-<code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<br />
+- **Multimodal AI**: vision-language models, spatiotemporal reasoning, visual question answering
+- **Computer vision**: detection, segmentation, tracking, and depth estimation
+- **Robotics**: robot perception and scene understanding
+- **Efficient & trustworthy AI**: federated learning and the evaluation of AI agents
 
-<details>
-<summary>
-  Additional projects I sometimes work on :arrow_down:
-</summary>
+### 🎓 Currently
 
-<br />
+- PhD student, Computer Science, Mississippi State University (since Jan 2026)
+- Graduate Teaching Assistant, Data Science Program, Mississippi State University
+- Previously: M.S. in Computer Science and AI, University of Missouri–St. Louis (2025); ML engineer in industry R&D (Fusemachines, National Innovation Centre Nepal)
 
-<!--- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushil-thapa&repo=ud-deep-reinforcement-learning)]()
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushil-thapa&repo=udacity-computervision-nanodegree)]()-->
+### 📄 Selected publications
 
-<br />
+- **Federated Learning: A Survey of Core Challenges, Current Methods, and Opportunities.** *Computers*, 2026.
+- **QFedPolyp: A Communication- and Inference-Efficient Federated Learning Framework for Polyp Segmentation.** [arXiv:2607.22743](https://arxiv.org/abs/2607.22743), 2026.
+- **Benchmarking Machine Learning Models for Multi-Omics-Based Breast Cancer Prediction.** [arXiv:2607.16250](https://arxiv.org/abs/2607.16250), 2026.
+- **Evaluating Agentic AI: A Comprehensive Survey of Metrics, Benchmarks, and Methodologies.** *TechRxiv*, 2026.
 
+Full list on [my website](https://priyanka36.github.io/publications/) and [Google Scholar](https://scholar.google.com/citations?user=Bl1KmboAAAAJ&hl=en).
 
-[comment]:![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-</details>
+### 🛠️ Tools
 
-![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka36&show_icons=true&theme=radical)
-## Github stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyanka36&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka36&theme=tokyonight" />
-</p>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka36&hide=javascript,html)](https://github.com/priyanka36/github-readme-stats)
-
-
-
-
+[![Tools](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,linux,docker,aws,git,latex&perline=10)](https://skillicons.dev)
